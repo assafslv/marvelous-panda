@@ -16,7 +16,7 @@ sections:
       - title: See all items
         url: /store
         arrow: true
-        style: primary
+        style: secondary
       - title: Order Now
         url: '#'
         style: secondary
