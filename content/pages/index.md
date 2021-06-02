@@ -19,7 +19,7 @@ sections:
         style: secondary
       - title: Order Now
         url: '#'
-        style: secondary
+        style: primary
         arrow: false
         type: action
   - type: featured_products_section
