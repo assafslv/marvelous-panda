@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/brooke-lark--F_5g8EEHYE-unsplash.jpg
+    background_image: images/charles-deluvio-D-vDQMTfAAU-unsplash.jpg
     background_image_opacity: 65
     content: |
       # Fine dining at your doorstep
