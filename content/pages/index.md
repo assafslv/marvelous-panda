@@ -7,11 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/brooke-lark--F_5g8EEHYE-unsplash.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: |
+      # Fine dining at your doorstep
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Handcrafted and curated by chefs, made for your microwave
     actions:
       - title: Order Now
         url: '#'
