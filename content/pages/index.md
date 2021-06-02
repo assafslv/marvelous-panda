@@ -15,7 +15,7 @@ sections:
       - title: Order Now
         url: '#'
         style: primary
-        arrow: false
+        arrow: true
         type: action
       - title: See all items
         url: /store
