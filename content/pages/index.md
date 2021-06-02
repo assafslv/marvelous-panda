@@ -23,7 +23,7 @@ sections:
         style: secondary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: Today's specials
     icon: false
     light_title: false
     featured_products:
